@@ -3,11 +3,14 @@
 Stan Rozing 11268808
 
 ## Problem Statement
-Er zijn erg veel voetballiefhebbers in de wereld en ook erg veel apps die iets met voetbal te maken hebben, zoals apps die bijvoorbeeld standen weergeven.
-Ik kan echter geen app vinden die naast standen ook nog informatie over teams weergeeft, wat erg frustrerend kan zijn voor mensen die naast de stand ook iets over een team en zijn spelers te weten willen komen.
+Er zijn erg veel voetballiefhebbers in de wereld en ook erg veel apps die iets met voetbal te maken hebben, 
+zoals apps die bijvoorbeeld standen weergeven.
+Ik kan echter geen app vinden die naast standen ook nog informatie over teams weergeeft, 
+wat erg frustrerend kan zijn voor mensen die naast de stand ook iets over een team en zijn spelers te weten willen komen.
 
 ## Solution
 An app which shows standings of big football competitions, but also info about teams and players in that competition.
+
 The visual sketch of the app is in another file.
 
 Main Features:
